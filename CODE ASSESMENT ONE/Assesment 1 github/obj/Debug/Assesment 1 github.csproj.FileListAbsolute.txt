@@ -1,0 +1,9 @@
+E:\OS - Open Source and Testing Cluster\Assesment 1 github\Assesment 1 github\bin\Debug\Assesment 1 github.exe.config
+E:\OS - Open Source and Testing Cluster\Assesment 1 github\Assesment 1 github\bin\Debug\Assesment 1 github.exe
+E:\OS - Open Source and Testing Cluster\Assesment 1 github\Assesment 1 github\bin\Debug\Assesment 1 github.pdb
+E:\OS - Open Source and Testing Cluster\Assesment 1 github\Assesment 1 github\obj\Debug\Assesment 1 github.csprojResolveAssemblyReference.cache
+E:\OS - Open Source and Testing Cluster\Assesment 1 github\Assesment 1 github\obj\Debug\Assesment_1_github.CONVERTER.resources
+E:\OS - Open Source and Testing Cluster\Assesment 1 github\Assesment 1 github\obj\Debug\Assesment_1_github.Properties.Resources.resources
+E:\OS - Open Source and Testing Cluster\Assesment 1 github\Assesment 1 github\obj\Debug\Assesment 1 github.csproj.GenerateResource.Cache
+E:\OS - Open Source and Testing Cluster\Assesment 1 github\Assesment 1 github\obj\Debug\Assesment 1 github.exe
+E:\OS - Open Source and Testing Cluster\Assesment 1 github\Assesment 1 github\obj\Debug\Assesment 1 github.pdb
